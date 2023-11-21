@@ -2,7 +2,7 @@
     "parts": [
         {
             "is_public": false,
-            "regex_def": "email was meant for @"
+            "regex_def": "emailZZ was meant for @"
         },
         {
             "is_public": true,
